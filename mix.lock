@@ -1,0 +1,3 @@
+%{
+  "hex_erl": {:git, "https://github.com/hexpm/hex_erl.git", "6117cbf20b2848e9cce7818c8ecff3ee6ed3ce3c", []},
+}
