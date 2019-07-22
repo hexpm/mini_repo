@@ -1,2 +1,0 @@
-defmodule MiniRepo do
-end
